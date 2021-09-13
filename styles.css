@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(182, 129, 231);
+    
+}
+
+span {
+    padding: 10px 5px 10px 5px;
+    border: 1px solid blueviolet;
+    box-shadow: blueviolet;
+    background-color: rgb(228, 212, 243);
+    border-radius: 4px;
+}
